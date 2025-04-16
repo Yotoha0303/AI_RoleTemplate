@@ -1,5 +1,9 @@
 ###  chatGPT用的角色设定模板
 
+```
+这是我的学习方式，通过AI+learn的方式，并且结合我的网络信息挖掘能力，进行高效的快速学习和思考。
+```
+
 #### 搭配用的插件[Mr.Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
 
 ####  Origin Contents
