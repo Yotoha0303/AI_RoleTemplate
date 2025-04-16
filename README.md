@@ -1,5 +1,7 @@
 ###  chatGPT用的角色设定模板
 
+#### 搭配用的插件[Mr.Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)
+
 ####  Origin Contents
 
 ```
