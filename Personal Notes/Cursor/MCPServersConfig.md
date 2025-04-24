@@ -1,8 +1,10 @@
-### mcp.json config
+### mcp.json
 
 ## 怎么获取MCP服务
 
 **MCP聚合服务平台**  [smithery](https://smithery.ai)
+
+//My mcp.json config
 
 ```
 {
