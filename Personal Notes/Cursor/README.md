@@ -1,0 +1,19 @@
+### Cursor的使用
+
+#### 使用前提
+ 
+1、cursor使用前，需要配置MCP服务，具体可以查看[该文档](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/MCPServersConfig.md)将需要的配置导入到`mcp.json`中。
+
+2、cursor在自动操作中可能会删除你需要的文件，注意通过一些网络建议来进行修改它们。如：在cursor setting的features中，你需要在command denylist中排除掉`rm -f`的使用，确保它不会删除你重要的文件。
+
+3、cursor在操作中，会频繁的提问您是否要运行某些命令，通过勾选cursor setting的features中`Enable auto-run mode`时，可以自动进行终端命令。
+
+#### 运行配置
+
+当你运行自动操作时，它可能会出现某些报错，这是它会停下让你去处理问题，这时可以通过导入[这个文档](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/CursorBaseSetting.md)来说明如何进行操作，来引导它进行自动处理。
+
+#### 我的其他记录
+
+1、尝试导入角色设定，进行更好的文件操作
+
+2、生成或者编写一个操作流程，引导cursor完成我的需求
