@@ -2,7 +2,7 @@
 
 ## 怎么获取MCP服务
 
-[smithery](https://smithery.ai)
+**MCP聚合服务平台**[smithery](https://smithery.ai)
 
 ```
 {
