@@ -28,7 +28,7 @@
 
 **1、最左边的内容**
 
-<img src="C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\image-20250425185829767.png" alt="image-20250425185829767" style="zoom: 67%;" />
+<img src="https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/assets/image-20250425185829767.png" alt="image-20250425185829767" style="zoom: 67%;" />
 
 2、中间部分
 
