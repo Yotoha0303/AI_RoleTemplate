@@ -1,12 +1,42 @@
 ### Cursor的使用
 
+### 软件背景：基于VScode进行开发的AI编程工具
+
 #### 使用前提
- 
+
 1、cursor使用前，需要配置MCP服务，具体可以查看[该文档](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/MCPServersConfig.md)将需要的配置导入到`mcp.json`中。
 
 2、cursor在自动操作中可能会删除你需要的文件，注意通过一些网络建议来进行修改它们。如：在cursor setting的features中，你需要在command denylist中排除掉`rm -f`的使用，确保它不会删除你重要的文件。
 
 3、cursor在操作中，会频繁的提问您是否要运行某些命令，通过勾选cursor setting的features中`Enable auto-run mode`时，可以自动进行终端命令。
+
+### `Cursor`入门
+
+1、配置`cursor setting`
+
+![Cursor1](C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\Cursor1.png)
+
+2、配置**任务操作自动运行**和**禁止删除**
+
+![Cursor2](C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\Cursor2.png)
+
+3、配置MCP服务（重要）
+
+![Cursor3](C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\Cursor3.png)
+
+### 软件说明
+
+**1、最左边的内容**
+
+<img src="C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\image-20250425185829767.png" alt="image-20250425185829767" style="zoom: 67%;" />
+
+2、中间部分
+
+![image-20250425185931199](C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\image-20250425185931199.png)
+
+3、右侧内容
+
+![image-20250425190005312](C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\image-20250425190005312.png)
 
 #### 运行配置
 
@@ -21,7 +51,7 @@
 
 ### 运行架构图
 
-基于`Cursor`运行规则2.0，[位置](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/SettingCursor2.md)
+基于`Cursor`[运行规则2.0](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/SettingCursor2.md)
 
 ```
 ┌──────────────┐
