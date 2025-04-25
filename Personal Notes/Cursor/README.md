@@ -14,15 +14,15 @@
 
 1、配置`cursor setting`
 
-![Cursor1](C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\Cursor1.png)
+![Cursor1](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/assets/Cursor1.png)
 
 2、配置**任务操作自动运行**和**禁止删除**
 
-![Cursor2](C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\Cursor2.png)
+![Cursor2](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/assets/Cursor2.png)
 
 3、配置MCP服务（重要）
 
-![Cursor3](C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\Cursor3.png)
+![Cursor3](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/assets/Cursor3.png)
 
 ### 软件说明
 
@@ -32,11 +32,11 @@
 
 2、中间部分
 
-![image-20250425185931199](C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\image-20250425185931199.png)
+![image-20250425185931199](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/assets/image-20250425185931199.png)
 
 3、右侧内容
 
-![image-20250425190005312](C:\Users\Yotoha\Desktop\Yotoha0303\Personal Notes\Cursor\assets\image-20250425190005312.png)
+![image-20250425190005312](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/assets/image-20250425190005312.png)
 
 #### 运行配置
 
