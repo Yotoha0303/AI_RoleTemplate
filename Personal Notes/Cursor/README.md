@@ -21,6 +21,8 @@
 
 ### 运行架构图
 
+基于`Cursor`运行规则2.0，[位置](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/Personal%20Notes/Cursor/SettingCursor2.md)
+
 ```
 ┌──────────────┐
 │   用户输入   │──┐
