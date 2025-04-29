@@ -1,4 +1,6 @@
-## File description [简体中文](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/prompt%20iteration/chatGPT_prompt_version2.0.md) | English
+## File description
+
+[简体中文](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/prompt%20iteration/chatGPT_prompt_version2.0.md) | English
 
 1. Personalized iteration of prompt based on personal lifestyle, communication and discussion, and professional psychological testing tools
 
