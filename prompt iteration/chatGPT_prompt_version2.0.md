@@ -1,4 +1,4 @@
-## 文件说明
+## 文件说明 简体中文 | [English](https://github.com/Yotoha0303/AI_RoleTemplate/blob/main/prompt%20iteration/chatGPT_prompt_version2.0-en.md)
 
 1、基于个人的生活方式、交流探讨和专业的心理测试工具等方式进行的`prompt`个性化迭代
 
